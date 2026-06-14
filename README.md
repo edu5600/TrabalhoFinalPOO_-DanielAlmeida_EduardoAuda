@@ -9,4 +9,5 @@ ou vitoria. Em cada andar podem ser escolhidos duas opções, encontro hostil (b
   Baixe o arquivo em sua máquina e execute o arquivo Main.
 
 3. Conceitos aplicados:
+   Utilizamos herança, classes abstratas, intefaces, tratamento de exceções, composição, matrizes e listas (fila).
   
